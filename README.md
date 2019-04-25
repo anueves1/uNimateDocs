@@ -8,7 +8,7 @@ You can use the Issues tab to report any Issues, bugs or suggestions.
 
 # About
 
-The perfect AAA quality Spring system for your game!
+The perfect AAA quality spring system for your game!
 
 USpring is the most powerful spring system on the Asset Store, it is built by using the newest features that the [Data Oriented Tech Stack (DOTS)](https://unity.com/dots) has brought to the table. 
 
