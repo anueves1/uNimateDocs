@@ -4,7 +4,7 @@
 
 This is a repository made to hold the documentation and other information for the USpring Unity asset. In order to access them, you can go to the [Wiki](https://github.com/anueves1/USpringDocs/wiki).
 
-You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
+You can use the Issues tab to report any Issues, bugs or suggestions.
 
 # About
 
