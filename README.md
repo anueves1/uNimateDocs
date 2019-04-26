@@ -1,6 +1,6 @@
 # USpring - Modular Spring System using ECS!
 
-[Asset Store]() | [Discord]() | [YouTube]() | [Forum]()
+[Asset Store]() | [Discord]() | [YouTube](https://www.youtube.com/channel/UCL0hpXfO3cyAJcVGo8TdxwA?view_as=subscriber) | [Forum]()
 
 # What is this repository for?
 
