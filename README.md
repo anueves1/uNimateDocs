@@ -14,6 +14,6 @@ The perfect AAA quality spring system for your game!
 
 USpring is the most powerful spring system on the Asset Store, it is built by using the newest features that the [Data Oriented Tech Stack (DOTS)](https://unity.com/dots) has brought to the table. 
 
-By levareging the power of ECS and its entities, we have built a robust, and easily extensible spring system featuring different demos that showcase its usage!
+By leveraging the power of ECS and its entities, we have built a robust, and easily extensible spring system featuring different demos that showcase its usage!
 
 This system is available on the [Asset Store]().
